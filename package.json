@@ -1,6 +1,6 @@
 {
   "name": "get-a-mac",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "if your software doesn't support Windows/Linux, use this in your Readme \"npx get-a-mac\"",
   "main": "index.js",
   "scripts": {
