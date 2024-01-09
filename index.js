@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var url = 'https://www.apple.com/macbook-air/';
 
 if (process.platform == 'darwin') {
