@@ -1,0 +1,11 @@
+{
+  "name": "get-a-mac",
+  "version": "1.0.0",
+  "description": "if your software doesn't support Windows/Linux, use this in your Readme \"npx get-a-mac\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
